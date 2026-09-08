@@ -23,9 +23,9 @@ function hitung(angka1, operator, angka2) {
 }
 
 // --- Contoh Penggunaan ---
-const a = 10;
-const op = '/';
-const b = 0;
+const a = 20;
+const op = '*';
+const b = 10;
 
 // Panggil fungsi dan cetak hasilnya
 const total = hitung(a, op, b);

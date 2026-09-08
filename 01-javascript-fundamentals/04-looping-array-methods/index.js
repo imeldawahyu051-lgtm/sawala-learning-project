@@ -1,4 +1,7 @@
-const daftarNilai = [80, 70, 65, 85];
+const daftarHarga = [50000, 150000, 200000, 75000];
 
-const NilaiTinggi = daftarNilai.filter(nilai => nilai > 80);
-console.log("Nilai Tinggi :", NilaiTinggi); 
+const barangMahal = daftarHarga.filter(harga => harga > 100000);
+console.log("Barang Mahal:", barangMahal);
+
+const hargaBaru = daftarHarga.map(harga => harga + 5000);
+console.log("Harga Baru:", hargaBaru);

@@ -1,7 +1,7 @@
-const nama = "Imelda Novianti"; // String (tidak bisa diubah)
-let umur = 16;                // Number (bisa berkurang/bertambah)
-let isLulus = true;                // Boolean (benar/salah)
+const nama = "Siti";
+let umur = 17;
+let alamat = "Jakarta";
 
 console.log("Nama :", nama);
 console.log("umur:", umur);
-console.log("Keterangan:", isLulus);
+console.log("alamat:", alamat);
