@@ -6,4 +6,4 @@ function cekKelulusan(nilai) {
   }
 }
 
-console.log(cekKelulusan(70)); // Hasil: Lulus
+console.log(cekKelulusan(70)); // Hasil: Tidak Lulus
