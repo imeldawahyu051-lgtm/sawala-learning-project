@@ -24,7 +24,7 @@ function hitung(angka1, operator, angka2) {
 
 // --- Contoh Penggunaan ---
 const a = 20;
-const op = '*';
+const op = '+';
 const b = 10;
 
 // Panggil fungsi dan cetak hasilnya
