@@ -21,8 +21,14 @@ Setiap milestone memiliki folder khusus dengan prefix angka (`01-`, `02-`, dst) 
     │   ├── 04-looping-array-methods/
     │   ├── 05-destructuring-spread/
     │   ├── 06-es-modules/
-    │   └── mini-project-produk-list/         # Output Wajib: Mini 
-    ├── 02-async-api-typescript/              # Milestone 2: Async JS & TypeScript (Upcoming)
+    │   └── mini-project-produk-list/         # Output Wajib: Mini Project Produk List
+    ├── 02-async-api-typescript/              # Milestone 2: Async JS & TypeScript
+    │   ├── README.md
+    │   ├── 01-promise-async-await/
+    │   ├── 02-fetch-api/
+    │   ├── 03-error-handling/
+    │   ├── 04-typescript-basic/
+    │   └── mini-project-consume-api/         # Output Wajib: Mini Project Consume API
     ├── 03-nodejs-fundamentals/               # Milestone 3: Node.js & Express.js (Upcoming)
     ├── 04-react-fundamentals/                # Milestone 4: React.js Frontend (Upcoming)
     └── 05-nextjs-strapi-final-project/       # Milestone 5: Next.js & Strapi CMS (Upcoming)
